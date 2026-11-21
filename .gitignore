@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+coverage/
+*.log
+
+# kept local, not pushed
+test/
+postman/
